@@ -9,6 +9,7 @@
   "author": "Jiraporn Boonsob",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.1",
     "three": "^0.170.0"
   }
 }
